@@ -2,7 +2,7 @@
 #import "AFJSONRequestOperation.h"
 #import "Character.h"
 #import "Guild.h"
-
+//1
 @implementation WoWApiClient
 
 static dispatch_once_t oncePredicate;
