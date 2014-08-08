@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-               BuildableName = "GuildBrowser.app"
+               BuildableName = "CII.app"
                BlueprintName = "GuildBrowser"
                ReferencedContainer = "container:GuildBrowser.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-            BuildableName = "GuildBrowser.app"
+            BuildableName = "CII.app"
             BlueprintName = "GuildBrowser"
             ReferencedContainer = "container:GuildBrowser.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-            BuildableName = "GuildBrowser.app"
+            BuildableName = "CII.app"
             BlueprintName = "GuildBrowser"
             ReferencedContainer = "container:GuildBrowser.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB9FDC3A15E9872D00B3713E"
-            BuildableName = "GuildBrowser.app"
+            BuildableName = "CII.app"
             BlueprintName = "GuildBrowser"
             ReferencedContainer = "container:GuildBrowser.xcodeproj">
          </BuildableReference>
